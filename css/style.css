@@ -1,0 +1,15 @@
+
+
+body{
+    background-color:#dee2e6;
+}
+#loginCard{
+       /* border-radius: 1em; */
+    width: 30rem;
+    margin: 5em 5em 5em 25em;
+   
+}
+#navCard{
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+    border:0px;
+}
